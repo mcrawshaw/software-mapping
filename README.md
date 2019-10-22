@@ -2,7 +2,7 @@
 
 This is a community-run site intended to inform anyone with an interest in software mapping.
 
-Software mapping is often feed from a software index, please visit [https://softwareindexing.org](softwareindexing.org) for more information.
+Software mapping is often feed from a software index, please visit [softwareindexing.org](https://softwareindexing.org) for more information.
 
 ## What is software mapping (noun)?
 
@@ -22,13 +22,9 @@ It's also important to note what a software map is not:
 - Positioned based on infrastructure
 - Positioned based on geography
 
-## What is a software map style?
-
-A style is
-
 ## Products
 
-- Aplas - [https://aplas.com](aplas.com)
+- Aplas - [aplas.com](https://aplas.com)
 - Who's next?
 
 ## Contributing
